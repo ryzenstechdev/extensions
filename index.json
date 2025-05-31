@@ -44,4 +44,18 @@
     "update": "gh:hayase-app/extensions",
     "code": "gh:hayase-app/extensions/animetosho-nzb"
   }
+  {
+  "author": "Nazz",
+  "icon": "https://static.animeworld.so/assets/images/favicon/android-icon-192x192.png?4",
+  "lang": "it",
+  "license": "MIT",
+  "name": "Animeworld",
+  "nsfw": "false",
+  "package": "animeworld",
+  "tags": "italian",
+  "type": "bangumi",
+  "url": "animeworld.js",
+  "version": "v0.0.1",
+  "webSite": "https://www.animeworld.so"
+  },
 ]
